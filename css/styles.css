@@ -48,6 +48,6 @@ nav a:focus{
 
 .home-hero{
 	background-image:
-	url(../img/bridge.jpg);
+	/*url(../img/bridge.jpg);*/
 	padding: 40em 0;
 }
